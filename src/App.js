@@ -2,10 +2,7 @@ import React, { Component } from 'react';
 // import logo from './logo.svg';
 import './App.css';
 
-const defaultTextColor = '#fff';
-const defaultStyle = {
-  color: defaultTextColor
-};
+const defaultStyle = { color: '#fff' };
 
 class Agreggate extends Component {
   render() {
